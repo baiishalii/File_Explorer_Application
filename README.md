@@ -33,12 +33,9 @@ This project demonstrates practical use of **C++17’s filesystem library** and 
 FileExplorer/
 │
 ├── main.cpp          # Main source code
-├── Makefile          # To compile and run the project easily
-├── README.md         # Project documentation
-└── screenshots/      # (Optional) Output screenshots for report
-```
+└── README.md         # Project documentation
 
----
+```
 
 ## 💻 Setup Instructions
 
